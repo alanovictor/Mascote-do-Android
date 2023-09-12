@@ -5,12 +5,11 @@ Página de Tecnologia sobre o Mascote do Android
 
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies-tecnologias">Tecnologias-Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project-projeto">Project-Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-license-licença">License-Licença</a>
 </p>
-
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
@@ -18,23 +17,28 @@ Página de Tecnologia sobre o Mascote do Android
 <br>
 
 
-## 🚀 Tecnologias
+## 🚀 Technologies-Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:<br>
+(Esse projeto foi desenvolvido com as seguintes tecnologias):
 
 - HTML e CSS
 - Git e Github
 
-## 💻 Projeto
+## 💻 Project-Projeto
 
-Site sobre tecnologia, onde apresenta informações a respeito da criação e volução do mascote do Android.
-Este projeto tem o enfoque para a aplicação de técnicas padrões de responsividade.
+DevLinks is a link aggregator to use as an online business card.<br>
+O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://alanovictor.github.io/Mascote-do-Android/)
+- [Access the finished project online](https://alanovictor.github.io/Mascote-do-Android/)<br>
+- [Acesse o projeto finalizado online](https://alanovictor.github.io/Mascote-do-Android/)
 
 
-## :memo: Licença
 
+## :memo: License-Licença
+
+This project is under the MIT license.<br>
 Esse projeto está sob a licença MIT.
 
 ---
+
