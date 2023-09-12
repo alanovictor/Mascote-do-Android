@@ -1,7 +1,7 @@
 # Mascote-do-Android
-Site do mascote do Android
+Página de Tecnologia sobre o Mascote do Android
 
-<h1 align="center"> Página "Página sobre o masctore do android" </h1>
+<h1 align="center"> "Página sobre o masctore do android" </h1>
 
 
 <p align="center">
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Site sobre tecnologia, onde apresenta informações a respeito da criação e volução do mascote do Android.
 Este projeto tem o enfoque para a aplicação de técnicas padrões de responsividade.
 
-- [Acesse o projeto finalizado, online](https://alanovictor.github.io/DevLinks/)
+- [Acesse o projeto finalizado, online](https://alanovictor.github.io/Mascote-do-Android/)
 
 
 ## :memo: Licença
