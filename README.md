@@ -27,8 +27,9 @@ This project was developed with the following technologies:<br>
 
 ## 💻 Project-Projeto
 
-DevLinks is a link aggregator to use as an online business card.<br>
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+This is a information's page about the creation of android's mascot and its repectives evolutions until a point of story . The project is specifically designed to display standard responsiveness techniques<br>
+(Este é uma página que trata de informações sobre a criação do mascote do andrioid e suas respectivas evoluções até certo momento na história. O projeto é espcificamente montado para a exibição de técnicas padrões de responsividade.)
+
 
 - [Access the finished project online](https://alanovictor.github.io/Mascote-do-Android/)<br>
 - [Acesse o projeto finalizado online](https://alanovictor.github.io/Mascote-do-Android/)
