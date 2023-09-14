@@ -1,7 +1,8 @@
 # Mascote-do-Android
 Página de Tecnologia sobre o Mascote do Android
 
-<h1 align="center"> "Página sobre o masctore do android" </h1>
+<h1 align="center"> "Page about the android's mascot" </h1>
+<h1 align="center"> "Página sobre o mascote do android" </h1>
 
 
 <p align="center">
