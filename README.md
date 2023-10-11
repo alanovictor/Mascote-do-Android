@@ -8,7 +8,6 @@ Página de Tecnologia sobre o Mascote do Android
 <p align="center">
   <a href="#-technologies-tecnologias">Tecnologias-Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project-projeto">Project-Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license-licença">License-Licença</a>
 </p>
 <p align="center">
